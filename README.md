@@ -59,6 +59,10 @@ This project is the result of a **collaborative effort across colleges**, combin
 
 - Transmits over Bluetooth SPP to `SmartGlass` device name
 
+<br>
+<hr>
+<br>
+
 
 ## 📥 Download Mobile App Project (MIT App Inventor)
 
