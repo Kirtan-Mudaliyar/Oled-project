@@ -87,6 +87,7 @@ display.setCursor(0, 16);
 display.println(batteryPart);
 display.setCursor(0, 32);
 display.println(notifPart);
+```
 
 <br>
 🧠 "Waiting..." Mode
