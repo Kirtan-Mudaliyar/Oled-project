@@ -93,8 +93,10 @@ display.println(notifPart);
 🧠 "Waiting..." Mode
 Before first Bluetooth message is received, the screen displays:
 
+```cpp
 Waiting...
 [hourglass icon]
+```
 
 📜 License
 Licensed under the MIT License — feel free to use, modify, and improve.
