@@ -50,10 +50,12 @@ This project is the result of a **collaborative effort across colleges**, combin
 
 - 🔧 Built using **MIT App Inventor** *(alternatively Android Studio)*
 - Sends data in the format:
-
+  
+```cpp
  10:45 AM
  Battery: 82%
  You have 2 new messages!
+```
 
 - Transmits over Bluetooth SPP to `SmartGlass` device name
 
