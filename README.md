@@ -57,6 +57,14 @@ This project is the result of a **collaborative effort across colleges**, combin
 
 - Transmits over Bluetooth SPP to `SmartGlass` device name
 
+### 📥 Download Mobile App Project (MIT App Inventor)
+
+> 🔗 **[SmartGlassApp.aia](app/SmartGlassApp.aia)** — MIT App Inventor Source File  
+Open at: [ai2.appinventor.mit.edu](https://ai2.appinventor.mit.edu/)
+
+You can import this `.aia` file into MIT App Inventor to view or modify the app source.
+
+
 <br>
 
 ### 🔋 Displayed Data (OLED Sections)
