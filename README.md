@@ -76,9 +76,11 @@ You can import this `.aia` file into MIT App Inventor to view or modify the app 
 - **Middle:** Battery Percentage
 - **Bottom:** Notification Text
 - **Footer Icons:**
-- 🔔 Notification Bell
-- 🔋 Battery Icon
-- ⏰ Alarm Symbol
+```
+ 🔔 Notification Bell
+ 🔋 Battery Icon
+  ⏰ Alarm Symbol
+```
 
 <br>
 <hr>
