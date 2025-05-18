@@ -121,5 +121,5 @@ Licensed under the MIT License — feel free to use, modify, and improve.
 <br>
 
 ## 🙌 Contributors
-- 👨‍💻 Developer : Mudaliyar Kirtan
+- 👨‍💻 Developer : Kirtan
 
