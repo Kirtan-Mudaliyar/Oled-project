@@ -122,5 +122,4 @@ Licensed under the MIT License — feel free to use, modify, and improve.
 
 ## 🙌 Contributors
 - 👨‍💻 Developer : Mudaliyar Kirtan
-- 🎓 Collaborator : Asmita Mudaliyar
 
